@@ -9,7 +9,7 @@
 * [Условия и гарантии](#условия-и-гарантии)
 
 ## О проекте
-Awesome WotLK — библиотека, расширяющая функционал World of Warcraft: Wrath of the Lich King Lua API.
+Awesome WotLK — ASI плагин, расширяющий функционал World of Warcraft: Wrath of the Lich King Lua API.
 
 Автор ASI адаптации не имеет никакого отношения к [автору оригинальной библиотеки](https://github.com/FrostAtom). Вся техническая документация находится в [официальном репозитории проекта](https://github.com/FrostAtom/awesome_wotlk).
 
